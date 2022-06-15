@@ -1,2 +1,1 @@
-# wynncraft-config-loader
- 
+# wynntils-config-loader
